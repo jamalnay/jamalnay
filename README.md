@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @jamalnay
+- 👋 Hi, I’m Jamal
 - 👀 I’m interested in Android Apps Dev
-- 🌱 I’m currently learning Kotlin
+- 🌱 I’m currently learning Kotlin & Jetpack Compose
 - 💞️ I’m looking to collaborate on Android Apps
-- 📫 How to reach me ...
+- 📫 Twitter : @jamaln99
 
 <!---
 jamalnay/jamalnay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
