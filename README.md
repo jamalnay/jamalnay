@@ -4,6 +4,7 @@ I am a Tech lover, coding explorer, and creative problem solver on a quest for k
 
 ### #Languages, Frameworks & Tools is use
 <p float="left">
+  <img style="padding:5px;" align="center" alt="Figma" width="35px" src="https://avatars.githubusercontent.com/u/5155369?s=200&v=4"/>
 <img style="padding:5px;" align="center" alt="Kotlin" width="35px" src="https://raw.githubusercontent.com/github/explore/4479d2a2c854198cb00160f8593519c14dc3b905/topics/kotlin/kotlin.png"/>
 <img style="padding:5px;" align="center" alt="Android" width="35px" src="https://raw.githubusercontent.com/github/explore/8baf984947f4d9c32006bd03fa4c51ff91aadf8d/topics/android/android.png"/>
 <img style="padding:5px;" align="center" alt="XML" width="35px" src="https://raw.githubusercontent.com/github/explore/05a6f4c574a32b6b2f04c2e589f6c82d9df46a5d/topics/xml/xml.png"/>
