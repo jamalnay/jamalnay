@@ -1,6 +1,6 @@
 ### #Whoami
 Hi There,
-I am a Tech lover, coding explorer, and creative problem solver on a quest for knowledge and innovation in the digital real
+I am a Tech lover, coding explorer, and creative problem solver on a quest for knowledge and innovation in the digital realm
 
 ### #Languages, Frameworks & Tools is use
 <p float="left">
