@@ -1,8 +1,7 @@
 ### #Whoami
-Hi There,
-I am a Tech lover, coding explorer, and creative problem solver on a quest for knowledge and innovation in the digital realm
+I am a Tech lover, coding explorer, and creative problem solver on a quest for knowledge and innovation in the digital realm.
 
-### #Languages, Frameworks & Tools is use
+### #Languages, IDEs, Frameworks & Tools I use
 <p float="left">
   <img style="padding:5px;" align="center" alt="Figma" width="35px" src="https://avatars.githubusercontent.com/u/5155369?s=200&v=4"/>
 <img style="padding:5px;" align="center" alt="Kotlin" width="35px" src="https://raw.githubusercontent.com/github/explore/4479d2a2c854198cb00160f8593519c14dc3b905/topics/kotlin/kotlin.png"/>
@@ -13,6 +12,10 @@ I am a Tech lover, coding explorer, and creative problem solver on a quest for k
 <img style="padding:5px;" align="center" alt="Material Design" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/material-design/material-design.png?size=48"/>
 <img style="padding:5px;" align="center" alt="Gradle" width="35px" src="https://raw.githubusercontent.com/github/explore/59009b1589a883459c0ae19044e3e7e3ec0c4e0a/topics/gradle/gradle.png"/>
 <img style="padding:5px;" align="center" alt="Github" width="35px" src="https://raw.githubusercontent.com/github/explore/89bdd9644f44d1b12180fd512b95574fe4c54617/topics/github-api/github-api.png"/>
+<img style="padding:5px;" align="center" alt="Github" width="35px" src="https://github.com/microsoft/vscode-docs/raw/main/images/logo-stable.png"/>
+<img style="padding:5px;" align="center" alt="Github" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"/>
+<img style="padding:5px;" align="center" alt="Github" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
+<img style="padding:5px;" align="center" alt="Github" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
 
 
 
