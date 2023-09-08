@@ -1,7 +1,7 @@
-### #Whoami
+### Whoami:
 I am a Tech lover, coding explorer, and creative problem solver on a quest for knowledge and innovation in the digital realm.
 
-### #Languages, IDEs, Frameworks & Tools I use
+### Languages, IDEs, Frameworks & Tools I use
 <p float="left">
   <img style="padding:5px;" align="center" alt="Figma" width="35px" src="https://avatars.githubusercontent.com/u/5155369?s=200&v=4"/>
 <img style="padding:5px;" align="center" alt="Kotlin" width="35px" src="https://raw.githubusercontent.com/github/explore/4479d2a2c854198cb00160f8593519c14dc3b905/topics/kotlin/kotlin.png"/>
